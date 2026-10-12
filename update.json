@@ -3,12 +3,5 @@
   "title": "تنظيم السجون",
   "تكييف الجرائم في قانون تنظيم السجون"
   "legalDatabase": [
-    {
-            id: "Law_prisons",
-            title: "قانون تنظيم السجون وإعادة الإدماج الاجتماعي للمحبوسين",
-            icon: "fa-gavel",
-            color: "bg-red-600",
-            badgeBg: "bg-red-50 text-red-600 border-red-200",
-        },
 ]
 }
