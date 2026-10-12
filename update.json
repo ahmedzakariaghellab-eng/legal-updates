@@ -1,6 +1,29 @@
 {
-"version": "v1.0.1",
-"title": "النظام محدث",
-"changelog": ["أنت تستخدم آخر إصدار من القوانين والتشريعات"],
-"legalDatabase": []
+  "version": "v1.0.3",
+  "title": "تحيين: قانون الوقاية من الفساد ومكافحته (06-01)",
+  "operation": "edit",
+  "changelog": [
+    "تعديل وتحيين مواد في قانون الوقاية من الفساد ومكافحته (06-01) (1 مادة متوفرة)"
+  ],
+  "legalDatabase": [
+    {
+      "id": "corruption_law",
+      "title": "قانون الوقاية من الفساد ومكافحته (06-01)",
+      "icon": "fa-scale-balanced",
+      "color": "bg-red-600",
+      "badgeBg": "bg-red-50 text-red-600 border-red-200",
+      "crimes": [
+        {
+          "code": "المادة 2",
+          "desc": "غلاب أحمد زكريا لمزكزك",
+          "penalty": "زكزك زكزوك"
+        }
+      ],
+      "fullText": [
+        "<div class=\"space-y-4 text-justify\" style=\"text-align: justify; direction: rtl;\">",
+        "    <p><strong>المادة 2:</strong> (تعديل ق 2/2) غلاب أحمد زكريا لمزكزك</p>",
+        "</div>"
+      ]
+    }
+  ]
 }
